@@ -161,3 +161,11 @@ h2 {
     }
   }
 }
+
+
+body {
+    background-image: url('https://i.imgur.com/u4sHqSW.jpg');
+    background-size: cover; /* 배경이 화면 전체를 채우도록 설정 */
+    background-position: center; /* 배경을 중앙으로 정렬 */
+    background-repeat: no-repeat; /* 배경 반복을 비활성화 */
+}
